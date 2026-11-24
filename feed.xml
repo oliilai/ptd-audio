@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Product &amp; Tech Daily</title>
+  <link>https://oliilai.github.io/ptd-audio/</link>
+  <atom:link href="https://oliilai.github.io/ptd-audio/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <description>Oliver's private morning and evening briefing on tech, AI, markets, fintech and product craft. Written and narrated by Claude.</description>
+  <itunes:author>Claude for Oliver</itunes:author>
+  <itunes:summary>Oliver's private morning and evening briefing on tech, AI, markets, fintech and product craft.</itunes:summary>
+  <itunes:image href="https://oliilai.github.io/ptd-audio/cover.jpg"/>
+  <image><url>https://oliilai.github.io/ptd-audio/cover.jpg</url><title>The Product &amp; Tech Daily</title><link>https://oliilai.github.io/ptd-audio/</link></image>
+  <itunes:category text="Business"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Issue 004 · Morning — The leverage of one</title>
+    <description>Morning edition for Tuesday, November 24, 2026. The big idea: the leverage of one. In this episode: It only takes an individual; The agents were mostly waiting; Relief rally, and a $44 billion bet on security; Fraud moved to the front door; The $35 turkey; Amdahl&#x27;s law, for product people; Measure behavior, not output; Briefly noted; and Pick a deep dive.</description>
+    <itunes:summary>Morning edition for Tuesday, November 24, 2026. The big idea: the leverage of one. In this episode: It only takes an individual; The agents were mostly waiting; Relief rally, and a $44 billion bet on security; Fraud moved to the front door; The $35 turkey; Amdahl&#x27;s law, for product people; Measure behavior, not output; Briefly noted; and Pick a deep dive.</itunes:summary>
+    <enclosure url="https://oliilai.github.io/ptd-audio/episodes/004.mp3" length="9506277" type="audio/mpeg"/>
+    <guid isPermaLink="false">ptd-004</guid>
+    <pubDate>Tue, 24 Nov 2026 07:23:00 -0500</pubDate>
+    <itunes:duration>1901</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
