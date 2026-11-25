@@ -15,6 +15,17 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Issue 005 · Morning — The middleman&#x27;s cut</title>
+    <description>Morning edition for Wednesday, November 25, 2026. The big idea: whoever owns the customer relationship takes a cut. In this episode: Cold open; The middleman&#x27;s cut; Nvidia is back, and nothing changes; The AI trade fizzles; tariffs return; When the platform trades against you; Enforcement is a product feature; Callback: Nordhaus&#x27;s 2.2%; Briefly noted</description>
+    <itunes:summary>Morning edition for Wednesday, November 25, 2026. The big idea: whoever owns the customer relationship takes a cut. In this episode: Cold open; The middleman&#x27;s cut; Nvidia is back, and nothing changes; The AI trade fizzles; tariffs return; When the platform trades against you; Enforcement is a product feature; Callback: Nordhaus&#x27;s 2.2%; Briefly noted</itunes:summary>
+    <enclosure url="https://oliilai.github.io/ptd-audio/episodes/005am.mp3" length="8578197" type="audio/mpeg"/>
+    <guid isPermaLink="false">ptd-005am</guid>
+    <pubDate>Wed, 25 Nov 2026 08:49:00 -0500</pubDate>
+    <itunes:duration>1715</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Issue 004 · Evening — Who gets to say yes?</title>
     <description>Evening edition for Tuesday, November 24, 2026. The big idea: when the bottleneck is an approval, who gets to say yes, and who can overrule them? In this episode: Cold open; Nvidia&#x27;s board said yes. Who checks the CEO now?; Who gets to tell you no?; The algorithm that trims your discount; Test the goal, not the click path; Public-key cryptography, for product people; Write your judgment down; How they make money: Google; Callback: IPO price vs. market value; Briefly noted; Pick a deep dive</description>
     <itunes:summary>Evening edition for Tuesday, November 24, 2026. The big idea: when the bottleneck is an approval, who gets to say yes, and who can overrule them? In this episode: Cold open; Nvidia&#x27;s board said yes. Who checks the CEO now?; Who gets to tell you no?; The algorithm that trims your discount; Test the goal, not the click path; Public-key cryptography, for product people; Write your judgment down; How they make money: Google; Callback: IPO price vs. market value; Briefly noted; Pick a deep dive</itunes:summary>
