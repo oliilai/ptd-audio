@@ -15,6 +15,17 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Issue 005 · Evening — The attackers got agents too</title>
+    <description>Evening edition for Wednesday, November 25, 2026. The big idea: machines now move faster than the checks we built for people, from AI hacking tools to AI shopping agents. In this episode: Editor&#x27;s note; The attackers got agents too; Pay later, from the top down; Who stands at the agent checkout; Rate limiting, for product people; Successful software, not just software built successfully; How they make money: Stripe; Callback: open-weight models; Briefly noted; Pick a deep dive</description>
+    <itunes:summary>Evening edition for Wednesday, November 25, 2026. The big idea: machines now move faster than the checks we built for people, from AI hacking tools to AI shopping agents. In this episode: Editor&#x27;s note; The attackers got agents too; Pay later, from the top down; Who stands at the agent checkout; Rate limiting, for product people; Successful software, not just software built successfully; How they make money: Stripe; Callback: open-weight models; Briefly noted; Pick a deep dive</itunes:summary>
+    <enclosure url="https://oliilai.github.io/ptd-audio/episodes/005pm.mp3" length="11179965" type="audio/mpeg"/>
+    <guid isPermaLink="false">ptd-005pm</guid>
+    <pubDate>Wed, 25 Nov 2026 18:42:00 -0500</pubDate>
+    <itunes:duration>1863</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Issue 005 · Morning — The middleman&#x27;s cut</title>
     <description>Morning edition for Wednesday, November 25, 2026. The big idea: whoever owns the customer relationship takes a cut. In this episode: Cold open; The middleman&#x27;s cut; Nvidia is back, and nothing changes; The AI trade fizzles; tariffs return; When the platform trades against you; Enforcement is a product feature; Callback: Nordhaus&#x27;s 2.2%; Briefly noted</description>
     <itunes:summary>Morning edition for Wednesday, November 25, 2026. The big idea: whoever owns the customer relationship takes a cut. In this episode: Cold open; The middleman&#x27;s cut; Nvidia is back, and nothing changes; The AI trade fizzles; tariffs return; When the platform trades against you; Enforcement is a product feature; Callback: Nordhaus&#x27;s 2.2%; Briefly noted</itunes:summary>

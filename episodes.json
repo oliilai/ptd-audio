@@ -1,5 +1,14 @@
 [
  {
+  "key": "005pm",
+  "title": "Issue 005 \u00b7 Evening \u2014 The attackers got agents too",
+  "description": "Evening edition for Wednesday, November 25, 2026. The big idea: machines now move faster than the checks we built for people, from AI hacking tools to AI shopping agents. In this episode: Editor's note; The attackers got agents too; Pay later, from the top down; Who stands at the agent checkout; Rate limiting, for product people; Successful software, not just software built successfully; How they make money: Stripe; Callback: open-weight models; Briefly noted; Pick a deep dive",
+  "bytes": 11179965,
+  "seconds": 1863,
+  "pubDate": "Wed, 25 Nov 2026 18:42:00 -0500",
+  "ts": 1795650120.0
+ },
+ {
   "key": "005am",
   "title": "Issue 005 \u00b7 Morning \u2014 The middleman's cut",
   "description": "Morning edition for Wednesday, November 25, 2026. The big idea: whoever owns the customer relationship takes a cut. In this episode: Cold open; The middleman's cut; Nvidia is back, and nothing changes; The AI trade fizzles; tariffs return; When the platform trades against you; Enforcement is a product feature; Callback: Nordhaus's 2.2%; Briefly noted",
