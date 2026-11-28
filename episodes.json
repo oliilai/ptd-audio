@@ -1,5 +1,14 @@
 [
  {
+  "key": "007pm",
+  "title": "Issue 007 \u00b7 Evening \u2014 Your model is a dependency",
+  "description": "Evening edition for Friday, November 27, 2026. The big idea: your model is a dependency, and someone else holds the dial. In this episode: Editor's note; Your model is a dependency; Who holds the AI loan when it goes wrong?; One meter, two shares; Your next user can't see the screen; McNemar's test: did the upgrade help?; SAP's cuts land on product; How they make money: Citadel; Callback: the sandbox; Briefly noted; Pick a deep dive",
+  "bytes": 12449181,
+  "seconds": 2074,
+  "pubDate": "Fri, 27 Nov 2026 18:39:00 -0500",
+  "ts": 1795822740.0
+ },
+ {
   "key": "007am",
   "title": "Issue 007 \u00b7 Morning \u2014 The part nobody checked",
   "description": "Morning edition for Friday, November 27, 2026. The big idea: the part nobody checked; the inputs you can't see often decide the real risk and the real price. In this episode: Cold open; The part nobody checked; When the vendor changes the recipe; The freight bill inside Black Friday; An ID card for agents; Know your customer's customer; Callback: evals and AI judges; Briefly noted",

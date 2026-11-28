@@ -15,6 +15,17 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Issue 007 · Evening — Your model is a dependency</title>
+    <description>Evening edition for Friday, November 27, 2026. The big idea: your model is a dependency, and someone else holds the dial. In this episode: Editor&#x27;s note; Your model is a dependency; Who holds the AI loan when it goes wrong?; One meter, two shares; Your next user can&#x27;t see the screen; McNemar&#x27;s test: did the upgrade help?; SAP&#x27;s cuts land on product; How they make money: Citadel; Callback: the sandbox; Briefly noted; Pick a deep dive</description>
+    <itunes:summary>Evening edition for Friday, November 27, 2026. The big idea: your model is a dependency, and someone else holds the dial. In this episode: Editor&#x27;s note; Your model is a dependency; Who holds the AI loan when it goes wrong?; One meter, two shares; Your next user can&#x27;t see the screen; McNemar&#x27;s test: did the upgrade help?; SAP&#x27;s cuts land on product; How they make money: Citadel; Callback: the sandbox; Briefly noted; Pick a deep dive</itunes:summary>
+    <enclosure url="https://oliilai.github.io/ptd-audio/episodes/007pm.mp3" length="12449181" type="audio/mpeg"/>
+    <guid isPermaLink="false">ptd-007pm</guid>
+    <pubDate>Fri, 27 Nov 2026 18:39:00 -0500</pubDate>
+    <itunes:duration>2074</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Issue 007 · Morning — The part nobody checked</title>
     <description>Morning edition for Friday, November 27, 2026. The big idea: the part nobody checked; the inputs you can&#x27;t see often decide the real risk and the real price. In this episode: Cold open; The part nobody checked; When the vendor changes the recipe; The freight bill inside Black Friday; An ID card for agents; Know your customer&#x27;s customer; Callback: evals and AI judges; Briefly noted</description>
     <itunes:summary>Morning edition for Friday, November 27, 2026. The big idea: the part nobody checked; the inputs you can&#x27;t see often decide the real risk and the real price. In this episode: Cold open; The part nobody checked; When the vendor changes the recipe; The freight bill inside Black Friday; An ID card for agents; Know your customer&#x27;s customer; Callback: evals and AI judges; Briefly noted</itunes:summary>
